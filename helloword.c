@@ -1,6 +1,11 @@
-#include <studio.b>
-int main ()
-}
-print("hello word "\n");
- return 0;
+using System; 
+
+class URI {
+
+    static void Main(string[] args) { 
+
+        Console.WriteLine("Hello World!");
+
+    }
+
 }
